@@ -1,0 +1,6 @@
+{
+  "parent": "merch/ears/mickey",
+  "textures": {
+    "texture": "merch/ears/lightning"
+  }
+}

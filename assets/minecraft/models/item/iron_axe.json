@@ -1,0 +1,2022 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/iron_axe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damaged": 0,
+        "damage": 0
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_1_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0039840637450
+      },
+      "model": "vehicles/wdw_bus"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_2_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0079681274900
+      },
+      "model": "vehicles/monorail/red_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_3_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0119521912350
+      },
+      "model": "vehicles/monorail/red_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_4_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0159362549800
+      },
+      "model": "vehicles/wdw_space"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_5_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0199203187250
+      },
+      "model": "vehicles/wdw_btm_engine"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_6_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0239043824701
+      },
+      "model": "vehicles/wdw_btm_car"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_7_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0278884462151
+      },
+      "model": "vehicles/wdw_splash"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_8_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0318725099601
+      },
+      "model": "vehicles/dino"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_9_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0358565737051
+      },
+      "model": "vehicles/rsr_red"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_10_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0398406374501
+      },
+      "model": "vehicles/rsr_yellow"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_11_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0438247011952
+      },
+      "model": "vehicles/raft"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_12_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0478087649402
+      },
+      "model": "vehicles/luigis_blue"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_13_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0517928286852
+      },
+      "model": "vehicles/luigis_orange"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_14_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0557768924302
+      },
+      "model": "vehicles/luigis_red"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_15_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0597609561752
+      },
+      "model": "vehicles/luigis_teal"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_16_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0637450199203
+      },
+      "model": "misc/cars/guido"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_17_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0677290836653
+      },
+      "model": "misc/cars/sheriff"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_18_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0717131474103
+      },
+      "model": "misc/cars/doc"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_19_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0756972111553
+      },
+      "model": "misc/cars/luigi"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_20_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0796812749003
+      },
+      "model": "misc/cars/mater"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_21_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0836653386454
+      },
+      "model": "vehicles/jii"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_22_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0876494023904
+      },
+      "model": "vehicles/tta"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_23_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0916334661354
+      },
+      "model": "vehicles/tot"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_24_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0956175298804
+      },
+      "model": "vehicles/incredicoaster_front"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_25_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.0996015936254
+      },
+      "model": "vehicles/incredicoaster_back"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_26_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1035856573705
+      },
+      "model": "vehicles/ppf"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_27_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1075697211155
+      },
+      "model": "vehicles/frozen"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_28_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1115537848605
+      },
+      "model": "vehicles/slinky_front"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_29_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1155378486055
+      },
+      "model": "vehicles/slinky_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_30_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1195219123505
+      },
+      "model": "vehicles/slinky_back"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_31_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1235059760956
+      },
+      "model": "misc/cars/lightning"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_32_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1274900398406
+      },
+      "model": "vehicles/trolley"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_33_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1314741035856
+      },
+      "model": "vehicles/nrj"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_34_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1354581673306
+      },
+      "model": "vehicles/heimlich_front"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_35_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1394422310756
+      },
+      "model": "vehicles/heimlich_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_36_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1434262948207
+      },
+      "model": "vehicles/heimlich_back"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_37_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1474103585657
+      },
+      "model": "vehicles/monsters"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_38_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1513944223107
+      },
+      "model": "vehicles/tractor"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_39_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1553784860557
+      },
+      "model": "vehicles/maters"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_40_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1593625498007
+      },
+      "model": "vehicles/rsr_blue"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_41_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1633466135458
+      },
+      "model": "vehicles/rsr_lblue"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_42_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1673306772908
+      },
+      "model": "vehicles/rsr_green"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_43_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1713147410358
+      },
+      "model": "vehicles/rsr_purple"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_44_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1752988047808
+      },
+      "model": "vehicles/jpra"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_45_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1792828685258
+      },
+      "model": "vehicles/alien_saucer_ship"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_46_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1832669322709
+      },
+      "model": "vehicles/alien_saucer"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_47_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1872509960159
+      },
+      "model": "vehicles/spaceship_earth"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_48_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1912350597609
+      },
+      "model": "vehicles/iasw_teal"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_49_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1952191235059
+      },
+      "model": "vehicles/pw"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_50_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.1992031872509
+      },
+      "model": "vehicles/ee"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_51_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2031872509960
+      },
+      "model": "vehicles/monorail/orange_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_52_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2071713147410
+      },
+      "model": "vehicles/monorail/yellow_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_53_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2111553784860
+      },
+      "model": "vehicles/monorail/green_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_54_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2151394422310
+      },
+      "model": "vehicles/monorail/blue_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_55_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2191235059760
+      },
+      "model": "vehicles/monorail/teal_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_56_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2231075697211
+      },
+      "model": "vehicles/monorail/lime_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_57_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2270916334661
+      },
+      "model": "vehicles/monorail/coral_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_58_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2310756972111
+      },
+      "model": "vehicles/monorail/silver_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_59_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2350597609561
+      },
+      "model": "vehicles/monorail/peach_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_60_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2390438247011
+      },
+      "model": "vehicles/monorail/black_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_61_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2430278884462
+      },
+      "model": "vehicles/monorail/orange_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_62_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2470119521912
+      },
+      "model": "vehicles/monorail/yellow_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_63_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2509960159362
+      },
+      "model": "vehicles/monorail/green_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_64_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2549800796812
+      },
+      "model": "vehicles/monorail/blue_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_65_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2589641434262
+      },
+      "model": "vehicles/monorail/teal_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_66_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2629482071713
+      },
+      "model": "vehicles/monorail/lime_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_68_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2669322709163
+      },
+      "model": "vehicles/monorail/coral_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_69_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2709163346613
+      },
+      "model": "vehicles/monorail/silver_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_70_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2749003984063
+      },
+      "model": "vehicles/monorail/peach_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_71_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2788844621513
+      },
+      "model": "vehicles/monorail/black_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_72_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2828685258964
+      },
+      "model": "vehicles/monorail/middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_73_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2868525896414
+      },
+      "model": "vehicles/teacup"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_74_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2908366533864
+      },
+      "model": "vehicles/teacupyellow"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_75_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2948207171314
+      },
+      "model": "vehicles/teacupgreen"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_76_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2988047808764
+      },
+      "model": "vehicles/teacupred"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_77_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3027888446215
+      },
+      "model": "vehicles/perch"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_78_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3067729083665
+      },
+      "model": "vehicles/perch2"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_79_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3107569721115
+      },
+      "model": "vehicles/perch3"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_80_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3147410358565
+      },
+      "model": "vehicles/perch4"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_81_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3187250996015
+      },
+      "model": "vehicles/barnstormerfront"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_82_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3227091633466
+      },
+      "model": "vehicles/barnstormermiddle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_83_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3266932270916
+      },
+      "model": "vehicles/barnstormerend"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_84_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3306772908366
+      },
+      "model": "vehicles/hulk_front"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_85_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3346613545816
+      },
+      "model": "vehicles/hulk_row"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_86_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3386454183266
+      },
+      "model": "vehicles/rnrc_front"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_87_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3426294820717
+      },
+      "model": "vehicles/rnrc_middle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_88_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3466135458167
+      },
+      "model": "vehicles/rnrc_back"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_89_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3505976095617
+      },
+      "model": "vehicles/drdoom"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_90_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3545816733067
+      },
+      "model": "vehicles/tron"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_91_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3585657370517
+      },
+      "model": "vehicles/iasw_red"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_92_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3625498007968
+      },
+      "model": "vehicles/iasw_yellow"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_93_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3665338645418
+      },
+      "model": "vehicles/iasw_blue"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_94_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3705179282868
+      },
+      "model": "vehicles/jc"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_95_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3745019920318
+      },
+      "model": "vehicles/jcback"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_96_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3784860557768
+      },
+      "model": "vehicles/doombuggy"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_97_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3824701195219
+      },
+      "model": "vehicles/potc"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_98_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3864541832669
+      },
+      "model": "vehicles/gft"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_99_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3904382470119
+      },
+      "model": "vehicles/bm"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_100_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3944223107569
+      },
+      "model": "vehicles/monorail/doors/red_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_101_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3984063745019
+      },
+      "model": "vehicles/monorail/doors/orange_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_102_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4023904382470
+      },
+      "model": "vehicles/monorail/doors/yellow_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_103_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4063745019920
+      },
+      "model": "vehicles/monorail/doors/green_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_104_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4103585657370
+      },
+      "model": "vehicles/monorail/doors/blue_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_105_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4143426294820
+      },
+      "model": "vehicles/monorail/doors/teal_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_106_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4183266932270
+      },
+      "model": "vehicles/monorail/doors/lime_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_107_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4223107569721
+      },
+      "model": "vehicles/monorail/doors/coral_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_108_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4262948207171
+      },
+      "model": "vehicles/monorail/doors/silver_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_109_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4302788844621
+      },
+      "model": "vehicles/monorail/doors/peach_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_110_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4342629482071
+      },
+      "model": "vehicles/monorail/doors/black_end"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_111_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4382470119521
+      },
+      "model": "vehicles/wdwtrolley"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_112_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4422310756972
+      },
+      "model": "vehicles/wtp"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_113_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4462151394422
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_114_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4501992031872
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_115_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4541832669322
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_116_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4581673306772
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_117_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4621513944223
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_118_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4661354581673
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_119_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4701195219123
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_120_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4741035856573
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_121_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4780876494023
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_122_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4820717131474
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_123_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4860557768924
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_124_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4900398406374
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_125_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4940239043824
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_126_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4980079681274
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_127_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5019920318725
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_128_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5059760956175
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_129_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5099601593625
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_130_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5139442231075
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_131_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5179282868525
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_132_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5219123505976
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_133_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5258964143426
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_134_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5298804780876
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_135_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5338645418326
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_136_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5378486055776
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_137_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5418326693227
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_138_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5458167330677
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_139_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5498007968127
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_140_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5537848605577
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_141_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5577689243027
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_142_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5617529880478
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_143_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5657370517928
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_144_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5697211155378
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_145_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5737051792828
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_146_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5776892430278
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_147_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5816733067729
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_148_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5856573705179
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_149_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5896414342629
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_150_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5936254980079
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_151_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5976095617529
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_152_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6015936254980
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_153_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6055776892430
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_154_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6095617529880
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_155_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6135458167330
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_156_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6175298804780
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_157_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6215139442231
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_158_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6254980079681
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_159_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6294820717131
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_160_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6334661354581
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_161_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6374501992031
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_162_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6414342629482
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_163_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6454183266932
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_164_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6494023904382
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_165_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6533864541832
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_166_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6573705179282
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_167_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6613545816733
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_168_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6653386454183
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_169_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6693227091633
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_170_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6733067729083
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_171_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6772908366533
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_172_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6812749003984
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_173_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6852589641434
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_174_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6892430278884
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_175_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6932270916334
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_176_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6972111553784
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_177_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7011952191235
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_178_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7051792828685
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_179_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7091633466135
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_180_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7131474103585
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_181_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7171314741035
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_182_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7211155378486
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_183_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7250996015936
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_184_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7290836653386
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_185_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7330677290836
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_186_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7370517928286
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_187_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7410358565737
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_188_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7450199203187
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_189_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7490039840637
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_190_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7529880478087
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_191_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7569721115537
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_192_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7609561752988
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_193_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7649402390438
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_194_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7689243027888
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_195_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7729083665338
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_196_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7768924302788
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_197_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7808764940239
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_198_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7848605577689
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_199_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7888446215139
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_200_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7928286852589
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_201_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7968127490039
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_202_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8007968127490
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_203_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8047808764940
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_204_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8087649402390
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_205_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8127490039840
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_206_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8167330677290
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_207_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8207171314741
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_208_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8247011952191
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_209_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8286852589641
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_210_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8326693227091
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_211_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8366533864541
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_212_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8406374501992
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_213_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8446215139442
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_214_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8486055776892
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_215_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8525896414342
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_216_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8565737051792
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_217_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8605577689243
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_218_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8645418326693
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_219_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8685258964143
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_220_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8725099601593
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_221_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8764940239043
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_222_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8804780876494
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_223_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8844621513944
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_224_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8884462151394
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_225_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8924302788844
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_226_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8964143426294
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_227_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9003984063745
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_228_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9043824701195
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_229_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9083665338645
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_230_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9123505976095
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_231_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9163346613545
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_232_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9203187250996
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_233_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9243027888446
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_234_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9282868525896
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_235_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9322709163346
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_236_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9362549800796
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_237_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9402390438247
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_238_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9442231075697
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_239_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9482071713147
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_240_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9521912350597
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_241_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9561752988047
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_242_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9601593625498
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_243_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9641434262948
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_244_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9681274900398
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_245_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9721115537848
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_246_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9760956175298
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_247_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9800796812749
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_248_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9840637450199
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_249_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9880478087649
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_250_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9920318725099
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:iron_axe_1_251_{Unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9960159362549
+      },
+      "model": "item/iron_axe"
+    },
+    {
+      "predicate": {
+        "damaged": 1,
+        "damage": 0
+      },
+      "model": "item/iron_axe"
+    }
+  ]
+}

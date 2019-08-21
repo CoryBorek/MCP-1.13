@@ -1,0 +1,6 @@
+{
+  "parent": "merch/bubble_wand",
+  "textures": {
+    "texture2": "block/white_concrete"
+  }
+}

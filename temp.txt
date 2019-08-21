@@ -1,2 +1,0 @@
-Q. Where is the 1.13 Pack?
-A. It's not here yet! I am currently rewriting a new software for updating resource packs.

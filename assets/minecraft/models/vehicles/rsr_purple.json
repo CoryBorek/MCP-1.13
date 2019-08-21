@@ -1,0 +1,6 @@
+{
+  "parent": "vehicles/rsr_red",
+  "textures": {
+    "particle": "item/nubx/rsr_purple"
+  }
+}

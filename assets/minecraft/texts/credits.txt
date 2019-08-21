@@ -1,0 +1,84 @@
+﻿
+[C]§f============
+[C]§9MCParks Team - as of 8/6/2019
+[C]§f============
+
+ 
+§dOwners
+[C]TheDrMeowMix
+[C]RyanHecht_
+ 
+§7Resource Pack Contributors
+[C]RyanHecht_
+[C]Guby
+[C]agentdid127
+[C]Jishy_
+[C]W2D5W8
+[C]SorcererParker
+[C]mlgbuilder
+[C]DLP1992
+ 
+§cExecutives
+[C]W2D5W8
+[C]Kae_
+[C]Jessicacake22
+[C]ElectricUmbrella
+ 
+§bTechnicians
+[C]Vec_ (§9Lead§f)
+[C]etdt12344	CaptainzScourge
+[C]Biddle_	mpawn
+[C]DLP1992	Guby
+[C]Jishy_	ronsampaul
+[C]The_Thanos	FixIt_Felix
+[C]NobodyBestFriend		abk1504_extreme
+[C]AgentCaremichael_
+ 
+§6Imagineers
+[C]W2D5W8 (§6Lead§f)
+[C]farksepher (§6TDL Project Lead§f)
+[C]WestC0T (§6WDW Resorts Project Lead§f)
+[C]Paxtons1 (§6USO Project Lead§f)
+[C]mlgbuilder (§6DCA Project Lead§f)
+[C]KUMO85 (§6New DHS Project Lead§f)
+[C]SorcererParker (§6New DL Project Lead§f)
+[C]SkipperGavin		Krake802
+[C]Gorthog		NiTeStalkrr
+[C]Aaruse	JUANDI321
+[C]Rilbud	disneyTokyo
+[C]VillageHausTbone36Tbone36
+[C]TheCrazyAlien	butterman123654
+[C]wityblack	ImAFoolishMortal
+ 
+§aGuest Relations
+[C]lilpres (§aLead§f)
+[C]agentdid127 (§aGuest Exp. Coordinator§f)
+[C]Chigg_ (§aEvents Coordinator§f)
+[C]MissDiamonder (§aCharacters Coordinator§f)
+[C]spakado	ohhelloitsnick
+[C]TheDisneyDork	Zach0317
+[C]HanShortFirst30	Beach_
+[C]HarryPotter0731	libbymoonbeam26
+[C]SplinterPlayMC	Beemaxer
+[C]Amanda_Dancer2	AdrienSol
+[C]Wailboy	nhrds
+[C]LostBoyIan	daeynore
+[C]SpacelanderD	Fuzed_
+[C]pongoweb		HeyItsConan
+[C]SandycatMC	Tori____
+[C]BrokenTV		PandemicWW
+[C]CJordan	YorkshireRose
+[C]national8872_
+
+
+[C]§f============
+[C]§3Special Thanks
+[C]§f============
+
+[C]Boby the Sponge
+
+
+
+
+
+§f"Hi, I'm Boby, the MCParks sponge!" §e- Boby The Sponge
